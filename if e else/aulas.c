@@ -18,5 +18,5 @@ int main(){
 }
 
 
-// video 2 notas aprovadas 
+
 
