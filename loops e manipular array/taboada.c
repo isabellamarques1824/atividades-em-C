@@ -2,7 +2,7 @@
 
 #define MULTIPLICADOR 10
 
-int main(){
+int main(void){
     int numero;
     printf("digite um numero:");
     scanf("%d", &numero);

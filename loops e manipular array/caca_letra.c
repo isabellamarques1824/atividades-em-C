@@ -6,9 +6,6 @@ int main(void){
     char letras_printadas[10];
     int usadas = 0;
 
-
-
-
     for(int i = 0; i  < 6; i++){
         int ja_foi = 0;
         int contador =0;
