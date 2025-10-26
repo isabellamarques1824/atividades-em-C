@@ -13,9 +13,11 @@ int main(void){
         scanf("%d", &numeros[i]);
     }
 
+
+    maior = numeros[0];
+    menor = numeros[0];
+    
     for(int i = 0; i < 6; i++){
-        maior = numeros[i];
-        menor = numeros[i];
         if(maior < numeros[i]){
             maior = numeros[i];
         }
